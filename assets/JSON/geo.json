@@ -1,0 +1,43 @@
+{
+  "coord": {
+    "lon": 2.0469,
+    "lat": 41.3833
+  },
+  "weather": [
+    {
+      "id": 801,
+      "main": "Clouds",
+      "description": "few clouds",
+      "icon": "02d"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 302.03,
+    "feels_like": 306.75,
+    "temp_min": 300.13,
+    "temp_max": 307.17,
+    "pressure": 1015,
+    "humidity": 76
+  },
+  "visibility": 10000,
+  "wind": {
+    "speed": 4.63,
+    "deg": 110
+  },
+  "clouds": {
+    "all": 20
+  },
+  "dt": 1691946107,
+  "sys": {
+    "type": 2,
+    "id": 2013154,
+    "country": "ES",
+    "sunrise": 1691902705,
+    "sunset": 1691952916
+  },
+  "timezone": 7200,
+  "id": 3110642,
+  "name": "Sant Feliu de Llobregat",
+  "cod": 200
+}
